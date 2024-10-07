@@ -1,14 +1,14 @@
-# Proyecto Taller 1
+# Proyecto Taller 2
 
 ## Enlace al Repositorio
 
-[Repositorio en GitHub](https://github.com/jmartter/Taller_1.git)
+[Repositorio en GitHub](https://github.com/jmartter/Taller_2.git)
 
 Este proyecto es una aplicación de Android, la aplicación está compuesta por tres pantallas diferentes: `PantallaInicio`, `ActividadPrincipal` y `PantallaConfiguracion`.
 
 ## Ubicación del Código 
 
-El código  de este proyecto se encuentra en la siguiente ruta:
+El código de este proyecto se encuentra en la siguiente ruta:
 
 `/Taller_1/src/main/java/com/example/taller_1/estructura/`
 
@@ -32,7 +32,6 @@ El código  de este proyecto se encuentra en la siguiente ruta:
 
 Muestra de la pantalla de inicio:
 
-
 | <img src="screenshots/InicioDia.png" alt="PantallaInicioDia" width="300"/> | <img src="screenshots/InicioNoche.png" alt="PantallaInicioNoche" width="300"/> |
 
 ### `ActividadPrincipal.kt`
@@ -48,12 +47,12 @@ Muestra de la pantalla de inicio:
    - Usa `TextField` para ingresar el nombre.
    - Usa `Button` para guardar el nombre en `SharedPreferences` y actualizar el saludo.
    - Usa `Button` para navegar a la pantalla de configuración.
+   - Usa `Button` para iniciar una tarea de red simulada y mostrar el progreso.
 
 3. **Función `ActividadPrincipalScreenPreview`**:
    - Es una función composable que proporciona una vista previa de la pantalla principal en el editor.
 
 Muestra de la pantalla de Actividad Principal:
-
 
 <img src="screenshots/Actividad.png" alt="PantallaActividadPrincipal" width="300"/>
 
@@ -81,8 +80,27 @@ Muestra de la pantalla de Actividad Principal:
 
 Muestra de la pantalla de Configuración:
 
-
 <img src="screenshots/Configuracion.png" alt="PantallaConfiguracion" width="300"/>
 
+### Incorporaciones Recientes
 
-## Autoevaluacion: 1
+1. **Uso de `AsyncTask` y `AsyncTaskLoader` en `MainActivity`**:
+   - Se ha añadido el uso de `AsyncTask` (`LoadMenuTask`) para cargar menús en segundo plano.
+   - Se ha añadido el uso de `AsyncTaskLoader` (`MenuLoader`) para cargar menús en segundo plano.
+
+2. **Clase `LoadMenuTask`**:
+   - Es una subclase de `AsyncTask` que simula la carga de menús en segundo plano.
+
+3. **Clase `MenuLoader`**:
+   - Es una subclase de `AsyncTaskLoader` que simula la carga de menús en segundo plano.
+
+4. **Clase `NetworkTask`**:
+   - Es una subclase de `AsyncTask` que simula una tarea de red y actualiza el progreso.
+
+Estas incorporaciones permiten cargar datos en segundo plano y mejorar la experiencia del usuario al no bloquear la interfaz de usuario principal.
+
+### Nueva Imagen
+
+Muestra de la pantalla de descarga:
+
+<img src="screenshots/PantallaDecarga.png" alt="PantallaDecarga" width="300"/>
