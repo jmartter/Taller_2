@@ -103,4 +103,4 @@ Estas incorporaciones permiten cargar datos en segundo plano y mejorar la experi
 
 Muestra de la pantalla de descarga:
 
-<img src="screenshots/PantallaDecarga.png" alt="PantallaDecarga" width="300"/>
+<img src="screenshots/PantallaDeCarga.png" alt="PantallaDeCarga" width="300"/>
