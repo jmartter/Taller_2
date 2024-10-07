@@ -4,7 +4,7 @@
             "outputFile": "com.example.taller_1.app-mergeDebugResources-44:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/jose/.gradle/caches/transforms-4/25bd982daacde82b002b83b1d1790304/transformed/core-1.6.1/res/values-v21/values.xml",
+                    "source": "/Users/jose/.gradle/caches/transforms-4/0a4e7e3c31c9087a8cba3e8b8be9d1b8/transformed/core-1.6.1/res/values-v21/values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jose/.gradle/caches/transforms-4/0fda332780793d611bd7c4ec7e91a182/transformed/core-1.13.1/res/values-v21/values-v21.xml",
+                    "source": "/Users/jose/.gradle/caches/transforms-4/cdb7e5f0aa8b7a74a6dc1e4b5e6001d9/transformed/core-1.13.1/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

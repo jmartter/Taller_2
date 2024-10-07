@@ -4,7 +4,7 @@
             "outputFile": "com.example.taller_1.app-mergeDebugResources-44:/values-iw/values-iw.xml",
             "map": [
                 {
-                    "source": "/Users/jose/.gradle/caches/transforms-4/1471dfd60eaffc65bf92bec5f09ea2bd/transformed/material3-release/res/values-iw/values-iw.xml",
+                    "source": "/Users/jose/.gradle/caches/transforms-4/b61cc00ccd3e1fd0bff2bca70c91aa2b/transformed/material3-release/res/values-iw/values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jose/.gradle/caches/transforms-4/0fda332780793d611bd7c4ec7e91a182/transformed/core-1.13.1/res/values-iw/values-iw.xml",
+                    "source": "/Users/jose/.gradle/caches/transforms-4/cdb7e5f0aa8b7a74a6dc1e4b5e6001d9/transformed/core-1.13.1/res/values-iw/values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jose/.gradle/caches/transforms-4/df18c813e96ecfd3f1d323b8eb66db4a/transformed/ui-release/res/values-iw/values-iw.xml",
+                    "source": "/Users/jose/.gradle/caches/transforms-4/6c2ad534570c5d7b13c9f6e09f010b08/transformed/ui-release/res/values-iw/values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jose/.gradle/caches/transforms-4/e1e48b6ec2fd24fd836bfc239860e5d9/transformed/foundation-release/res/values-iw/values-iw.xml",
+                    "source": "/Users/jose/.gradle/caches/transforms-4/af8e4d4e5b5398bc6f0cef1633b64bcb/transformed/foundation-release/res/values-iw/values-iw.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
